@@ -1,0 +1,43 @@
+plugin_routing:
+  integration:
+    remove_config:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    base_config:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+  modules:
+    junos_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_l2_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_l3_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_linkagg:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_lldp:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_lldp_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_static_route:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    junos_vlan:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
